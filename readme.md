@@ -2,7 +2,8 @@
 
 In this code, we can generate the synthetic dataset,and run the model STM with the screening method HFS.
 
+
 ## Usage
 Just execute run.m
 
-If you have some problems or find some bugs in the codes, please email: zhangweizhongzju AT gmail DOT com
+If you have some problems when you do experiemnt on the real dataste ADNI or find some bugs in the codes, please email: zhangweizhongzju AT gmail DOT com
