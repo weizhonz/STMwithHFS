@@ -6,4 +6,4 @@ In this code, we can generate the synthetic dataset,and run the model STM with t
 ## Usage
 Just execute run.m
 
-If you have some problems when you do experiemnt on the real dataset ADNI or find some bugs in the codes, please email: zhangweizhongzju AT gmail DOT com
+If you have some problems when you do experiemnt on the real dataset ADNI using this code or find some bugs in the codes, please email: zhangweizhongzju AT gmail DOT com
